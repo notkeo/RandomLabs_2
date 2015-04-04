@@ -1,0 +1,2 @@
+main.py -g lc -n 50 -i [11,9,5,91] -f out.txt
+main.py -g add -n 50 -i {'k':11,'j':55,'n':70,'m':1024} -f out.txt
